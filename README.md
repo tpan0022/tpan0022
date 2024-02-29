@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi everyone, I'm Thomas Pang, a 5th year software engineering student.
+
+I enjoy working on projects involving web development and data analysis. If you'd like to reach out to me please contact me at tpan0022@student.monash.edu!
 
 <!--
 **tpan0022/tpan0022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
